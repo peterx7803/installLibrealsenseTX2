@@ -13,8 +13,8 @@ sudo apt-get install build-essential libgtk-3-dev -y
 cd $HOME
 git clone https://github.com/IntelRealSense/librealsense.git
 cd librealsense
-# Checkout version 1.12.1 of librealsense, last tested version
-git checkout v1.12.1
+# Checkout version 2.8.1 of librealsense, last tested version
+git checkout v2.8.1
 # Install Qt libraries
 sudo scripts/install_qt.sh
 # Copy over the udev rules so that camera can be run from user space
