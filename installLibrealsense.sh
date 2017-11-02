@@ -8,6 +8,7 @@ sudo apt-get install libusb-1.0-0-dev pkg-config -y
 sudo apt-get install libglfw3-dev -y
 sudo apt-get install qtcreator -y
 sudo apt-get install cmake-curses-gui -y
+sudo apt-get install build-essential libgtk-3-dev -y
 # Install librealsense into home directory
 cd $HOME
 git clone https://github.com/IntelRealSense/librealsense.git
