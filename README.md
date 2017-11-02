@@ -12,6 +12,6 @@ Which will install needed dependencies, and then the librealsense repository. Th
 Once the setup is complete, the library will be built and installed.
 
 
-Note that earlier versions of these scripts are in Tags. 
-Note that SR300 is currently tested realsense SDK2
+Note that earlier versions of these scripts are in Tags.
+Note that SR300 is only tested on realsense SDK2.
 
