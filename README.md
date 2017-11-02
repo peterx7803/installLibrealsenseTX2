@@ -13,5 +13,5 @@ Once the setup is complete, the library will be built and installed.
 
 
 Note that earlier versions of these scripts are in Tags.
-Note that SR300 is only tested on realsense SDK2.
+Note that currently SR300 is only tested on realsense SDK2.
 
