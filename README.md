@@ -1,7 +1,7 @@
 # installLibrealsenseTX2
 JetsonHacks Install librealsense for Intel RealSense cameras on Jetson TX2 Development Kit
 
-This is for version L4T 28.1 (JetPack 3.1)
+This is tested for version L4T 28.2 (JetPack 3.2)
 
 To install the librealsense library:
 
